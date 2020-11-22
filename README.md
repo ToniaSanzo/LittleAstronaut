@@ -2,6 +2,8 @@
 LittleAstronaut is a game made for Give Back Hacks 2020
 
 Click the image below for a demo reel
+
+
 [![Little Astronaut Demo](GameCaptures/LittleAstronautThumbnail.PNG)](https://youtu.be/nm8VJVWFMGU)
 
 Link to google drive .zip file with .exe 
